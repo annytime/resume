@@ -17,7 +17,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
   src: url(../fonts/Varela Round.woff2) format('woff2');
 }
 h4, h5, h6,
-h1, h2, h3 {margin: 0;font-family: 'Ubuntu', sans-serif;font-weight:600;}
+h1, h2, h3 {margin: 0;font-family: 'Arial', sans-serif;}
 ul, ol {margin: 0; padding:0;}
 p {margin: 0;font-family: 'Arial', sans-serif;}
 html, body{
